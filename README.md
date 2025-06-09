@@ -14,6 +14,15 @@
 
 ---
 
+## 🛠️ Projects
+
+- **[AI Chatbot](https://github.com/lehuuthanh/ai-chatbot)**  
+  A simple rule-based chatbot built with Python. This project helped me understand the basics of Natural Language Processing (NLP), conditional logic, and user interaction in the terminal.
+
+> More projects coming soon as I continue learning!
+
+---
+
 ## 📫 Contact Me
 
 - 📧 Email: huu.thanh09966@gmail.com
